@@ -9,4 +9,3 @@
 #### The pixel swapper randomly arranges each pixel in the original image, creating a dynamic and chaotic visual effect. draw() loops through swapPixels() 100 times per frame, swapping the colors of random pixels to create a chaotic effect. averagePixels() can mix the rgb colors of two random pixels to form an average color, thereby creating smooth gradients in the image.
 ![An image of the Example](ReadmeImages/pixel-swapper-5-swap-local.gif)
 
-[Example of a link](https://happycoding.io/tutorials/p5js/images/pixel-swapper)
